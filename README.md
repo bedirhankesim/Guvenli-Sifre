@@ -54,6 +54,9 @@ You can easily use this project by downloading it to your computer.
 2. `sifreolusturucu.py` dosyasını visual studio code gibi bir derleyicide açarak kodları görüntüleyin.  
      View the code by opening the `sifreolusturucu.py` file in a compiler such as visual studio code.
 
+3. `şifre oluşturucu.exe` dosyasını açarak direkt uygulamayı kullanabilirsiniz.  
+     You can use the application directly by opening the `password generator.exe` file.
+
 <!-- USAGE EXAMPLES -->
 
 <!-- PROJECT LOGO -->
@@ -93,6 +96,9 @@ You can easily use this project by downloading it to your computer.
    
 2. `sifreolusturucu.py` dosyasını visual studio code gibi bir derleyicide açarak kodları görüntüleyin.  
      View the code by opening the `sifreolusturucu.py` file in a compiler such as visual studio code.
+   
+3. `şifre oluşturucu.exe` dosyasını açarak direkt uygulamayı kullanabilirsiniz.  
+     You can use the application directly by opening the `password generator.exe` file.
 
 <!-- USAGE EXAMPLES -->
 ## Kullanım / Usage
@@ -113,7 +119,7 @@ This project is for security purposes only. If you want to use this application,
 Bu projeyi kişisel kullanım için özgürce kullanabilirsiniz. Ancak ticari amaçla kullanmak isterseniz, ilgili lisansları kontrol ediniz.  
 You can freely use this project for personal use. However, if you'd like to use it for commercial purposes, please check the relevant licenses.
 
-Proje Linki: [https://github.com/bedirhankesim/Makima-Web-Hack](https://github.com/Guvenli-Sifre)
+Proje Linki: [https://github.com/bedirhankesim/Guvenli-Sifre](https://github.com/Guvenli-Sifre)
 
 
 ## Uygulama Fotoğrafları / App photos
